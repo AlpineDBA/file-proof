@@ -158,6 +158,6 @@ This project is licensed under GNU GENERAL PUBLIC LICENSE - see the LICENSE file
 
  **⭐ If this project helped you, please consider giving it a star! ⭐**
 
-*Developed by [Jack Worthen](https://github.com/jackworthen)*
+*Developed by [Jack Worthen](https://github.com/alpinedba)*
 
 </div>
